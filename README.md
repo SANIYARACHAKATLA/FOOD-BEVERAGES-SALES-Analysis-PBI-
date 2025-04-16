@@ -1,4 +1,4 @@
-  # Food & Beverages Sales Analysis Dashboard (Power BI)
+  # Food & Beverages Sales Analysis Dashboard (Power BI & SQL) | Sure Trust |
 
 # Overview
 
